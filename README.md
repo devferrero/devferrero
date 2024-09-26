@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aanaclaraleao/)
 [![TikTok](    https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aanaclaraleao?lang=pt-BR)
 
-![Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=devferrero&show_icons=true&theme=tokyonight)
+![Dev Leonis GitHub stats](https://github-readme-stats.vercel.app/api?username=devleoniso&show_icons=true&theme=tokyonight)
 
 ## Tecnologias
 
